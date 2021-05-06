@@ -8,6 +8,9 @@ namespace testgitJenkins
         {
             Console.WriteLine("Build Succeed!");
 
+            Console.WriteLine("Build Succeed!");
+
+
             Console.WriteLine("Hello World!");
         }
     }
